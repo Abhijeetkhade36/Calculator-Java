@@ -5,11 +5,23 @@ This Java program is a simple command line calculator that supports basic arithm
 
 # How to use
 
-### 1. Clone the Repositary :  [https://github.com/Abhijeetkhade36/Calculator-Java.git]
+1. **Clone the Repository:**
 
-### 2. Compile the Java code :    javac Calculator.java
+   ```bash
+   https://github.com/Abhijeetkhade36/Calculator-Java.git
+   ```
 
-### 3. Run Calculator :    java Calculator
+2. **Compile the Java Code:**
+
+   ```bash
+   javac Calculator.java
+   ```
+
+3. **Run the Calculator:**
+
+   ```bash
+   java Calculator
+   ```
 
 ### 4. Follow Instruction on screen :
 
