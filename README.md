@@ -14,7 +14,7 @@ This Java program is a simple command line calculator that supports basic arithm
 2. **Compile the Java Code:**
 
    ```bash
-   javac Calculator.java
+   javac Task1.java
    ```
 
 3. **Run the Calculator:**
