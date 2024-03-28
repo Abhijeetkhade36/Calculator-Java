@@ -5,7 +5,7 @@ This Java program is a simple command line calculator that supports basic arithm
 
 # How to use
 
-### 1. Clone the Repositary :
+### 1. Clone the Repositary :  [https://github.com/Abhijeetkhade36/Calculator-Java.git]
 
 ### 2. Compile the Java code :    javac Calculator.java
 
@@ -47,5 +47,5 @@ This Java program is a simple command line calculator that supports basic arithm
 
 # License
 
-This project is licensed under the MIT Licens-[]
+This project is licensed under the MIT Licens- see the [License](https://github.com/Abhijeetkhade36/Calculator-Java?tab=MIT-1-ov-file#MIT-1-ov-file) file for details.
     
